@@ -143,8 +143,9 @@ onDismiss(id){
       </div>
      { error
        ? <div className="interactions">
-
-          <p>Whats up guys Im here and there is a Problem.Something went wrong.</p>
+          <p>Something went wrong.</p>
+          <p>This is the First Branch</p>
+          <p>This is the first Change in firstBranch</p>
          </div>
           : <Table
           list={list}
