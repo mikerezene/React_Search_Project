@@ -147,6 +147,7 @@ onDismiss(id){
           <p>I'm changed</p>
           <p>Lets Check is Here</p>
           <p>Doneeeeeeeee</p>
+          <p>Waitttttttt</p>
          </div>
           : <Table
           list={list}
