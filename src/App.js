@@ -145,6 +145,7 @@ onDismiss(id){
        ? <div className="interactions">
           <p>Something went wrong.</p>
           <p>I'm changed</p>
+          <p>Lets Check is Here</p>
          </div>
           : <Table
           list={list}
