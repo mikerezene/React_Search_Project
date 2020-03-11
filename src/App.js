@@ -148,6 +148,7 @@ onDismiss(id){
           <p>Lets Check is Here</p>
           <p>Doneeeeeeeee</p>
           <p>Waitttttttt</p>
+          <p>I figure it out</p>
          </div>
           : <Table
           list={list}
