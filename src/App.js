@@ -146,6 +146,7 @@ onDismiss(id){
           <p>Something went wrong.</p>
           <p>Last Check is On!!!!!!!!!!!!!</p>
           <p>Going well</p>
+          <p>What is this</p>
          </div>
           : <Table
           list={list}
